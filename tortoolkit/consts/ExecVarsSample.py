@@ -5,17 +5,17 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = "97bebcbb692546bce29934291c5c2998"
-        API_ID = 2068926
-        BOT_TOKEN = "1415747350:AAGgVUBfB8-oDfbY7T7S62QwUS_XsoeIvo4"
-        BASE_URL_OF_BOT = "https://megatunemedoet.herokuapp.com"
+        API_HASH = "bd2567f72a4b1bc9a776b96c0e955d88"
+        API_ID = 646557
+        BOT_TOKEN = "1522955929:AAHqY5JZvL09WbQXQOr9xa6LdjAjiEJ6x1o"
+        BASE_URL_OF_BOT = "https://noobtoolkit.herokuapp.com"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [-1001209420449]
-        OWNER_ID = 810796147
+        ALD_USR = [-1001437242938]
+        OWNER_ID = 1100144837
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
